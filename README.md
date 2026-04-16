@@ -14,11 +14,12 @@ A data science script that leverages the Pandas engine to extract, transform, an
 ## 🛠️ Installation & Setup
 
 **1. Clone the repository:**
-```bash
+
 git clone [https://github.com/karthikeya4167/fitness-dashboard.git](https://github.com/karthikeya4167/fitness-dashboard.git)
 cd fitness-dashboard
 
 **2. Install dependencies:**
+
 pip install pandas matplotlib
 
 
